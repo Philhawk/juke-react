@@ -1,8 +1,8 @@
 'use strict';
 
-import React from 'react'
-import ReactDOM from 'react-dom'
-import MainComponent from './MainComponent'
+import React from 'react';
+import ReactDOM from 'react-dom';
+import MainComponent from './MainComponent';
 
 ReactDOM.render(
  <MainComponent />,
